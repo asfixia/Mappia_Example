@@ -1,2 +1,1 @@
-# Mappia_Example
-This repository link: https://maps.csr.ufmg.br/calculator/?map=&amp;queryid=152&amp;listRepository=Repository&amp;storeurl=https://github.com/asfixia/Mappia_Example/
+Online maps published by Mappia. [List maps in repository](https://maps.csr.ufmg.br/calculator/?map=&queryid=152&listRepository=Repository&storeurl=https://github.com/asfixia/Mappia_Example/)
